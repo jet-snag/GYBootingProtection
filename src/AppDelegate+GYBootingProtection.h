@@ -5,7 +5,7 @@
 //  Created by richliu on 16/5/19.
 //
 
-#import "AppDelegate.h"
+// #import "AppDelegate.h"
 
 @interface AppDelegate (GYBootingProtection)
 
