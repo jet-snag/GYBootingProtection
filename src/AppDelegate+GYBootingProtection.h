@@ -6,6 +6,7 @@
 //
 
 // #import "AppDelegate.h"
+#include <UIKit/UIKit.h>
 
 @interface AppDelegate (GYBootingProtection)
 
